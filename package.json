@@ -1,6 +1,6 @@
 {
   "name": "nestjs-type-events",
-  "version": "1.0.0-beta.0",
+  "version": "1.0.0-beta.1",
   "description": "A nest.js module for type-events",
   "repository": "https://github.com/j/nestjs-type-events",
   "keywords": [
